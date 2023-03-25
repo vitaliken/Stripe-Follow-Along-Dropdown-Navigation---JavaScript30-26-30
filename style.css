@@ -82,7 +82,7 @@ nav ul {
     display: none;
 }
 
-/*                                             display lists                              */
+/*display lists*/
 
 .trigger-enter .dropdown {
     display: block;
@@ -92,7 +92,7 @@ nav ul {
     opacity: 1;
 }
 
-/*                                             display lists                              */
+/*display lists*/
 
 .dropdownBackground {
     width: 100px;
@@ -109,13 +109,13 @@ nav ul {
     opacity: 0;
 }
 
-/*                                             for lists white background                                             */
+/*for lists white background*/
 
 .dropdownBackground.open {
     opacity: 1;
 }
 
-/*                                             for lists white background                                             */
+/*for lists white background*/
 
 .arrow {
     position: absolute;
